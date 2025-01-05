@@ -5,7 +5,8 @@ A few days after the 30<sup>th</sup> of November 2022, intererst in Generative A
 
 My goal is to show you how tools like ChatGPT can **democratize programming**. This means it is now _easy for many people_ to use the power of computing to solve problems that matter to them.
 
+```
 :class: tip, dropdown
 
 Todo.
-
+```
